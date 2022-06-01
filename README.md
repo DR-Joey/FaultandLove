@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+## 안녕하세요 . 김정현/장현석 예식장 신청 매뉴얼 사이트입니다. 도와주셔서 감사합니다. 🙎‍♂️🙎‍♀️ 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 서울대 교수회관 사이트 서버시간
 
-## Available Scripts
+https://time.navyism.com/?host=http%3A%2F%2Fwww.snufacultyclub.com%2F
 
-In the project directory, you can run:
 
-### `yarn start`
+# 서울대 교수회관 웨딩 홀 예약 사이트
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+http://www.snufacultyclub.com/page.php?pgid=wedding3
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
+## (1) 6/2일 10시전에 위 사이트 접속후 아래 그림 나왔을 때 바로 밑으로 스크롤 다운!! 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://user-images.githubusercontent.com/72782665/171429309-878dd3ee-5c33-47f8-905f-f31d9991a1ab.png)
 
-### `yarn build`
+## (2) 스크롤 다운 후 "개인정보 동의 체크박스" 선택 후 
+## 서버시간 9시 59분 59초 딱 되자마자!!! --> (왼쪽 "예식 예약 신청" 누르기!!) 다음페이지로 이동
+![image](https://user-images.githubusercontent.com/72782665/171429713-c5cce66f-a016-4a38-bc07-ec230acee987.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## (3) 다음 그림 나왔을 떄 "날짜" 탭 누르기 !!!
+![image](https://user-images.githubusercontent.com/72782665/171430071-7deede57-6114-43f8-97aa-3e8c6d506699.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## (4) 꼭 [2023년] 선택 후 ["6월 3일"] 선택 !!
+![image](https://user-images.githubusercontent.com/72782665/171430410-e6ac244e-02bf-4d19-9c5a-1bfd0e967039.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## (5) 날짜 선택 후 [예식 5부 오후 18시 30분] 선택 !!
+![image](https://user-images.githubusercontent.com/72782665/171431492-9b3c8d06-0caa-47b9-afc6-c22e4326c233.png)
 
-### `yarn eject`
+## (6) 신랑, 신부 개인정보 입력!! 암기 어려우니 옆에 [포스트잇 붙이고 준비해주세요] ㅠㅠ!! (이메일은 신랑신부 동일하게 입력)
+![image](https://user-images.githubusercontent.com/72782665/171431046-30abf27a-453a-4bf0-814e-3e7098253e61.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 성공해주신 분에겐 오마카세 대접하겠습니다. 잘 부탁드립니다. 다시 한번 신경 써주셔서 감사합니다.
