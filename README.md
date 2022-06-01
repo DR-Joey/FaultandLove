@@ -34,4 +34,9 @@ http://www.snufacultyclub.com/page.php?pgid=wedding3
 김정현 01089666690 //
 이메일 jegal07@naver.com
 
+## (7) 모두 입력 후 (추가문의사항은 패스!!) 다음 예약 신청하기 버튼 누르기
+![image](https://user-images.githubusercontent.com/72782665/171433440-3ad42b1f-4932-4623-9e02-b9825537c6ff.png)
+
+
+
 ## 성공해주신 분에겐 오마카세 대접하겠습니다. 잘 부탁드립니다. 다시 한번 신경 써주셔서 감사합니다.
